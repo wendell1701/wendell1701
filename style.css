@@ -1,0 +1,144 @@
+.texto{
+   position: fixed;
+   right: 30%;
+   border-radius: 20cm;
+    border-color: #dfe1e5;
+    border-style: solid;
+    border-width: 1px;
+   width: 15cm;
+   height: 40px;
+   cursor: text;
+   text-align: left;
+   font-family: Arial, Helvetica, sans-serif;
+   -webkit-tap-highlight-color: transparent;
+}
+.texto:hover{
+ 
+
+}
+input {
+   writing-mode: horizontal-tb !important;
+   text-rendering: auto;
+   letter-spacing: normal;
+   word-spacing: normal;
+   line-height: normal;
+   text-transform: none;
+   text-indent: 0px;
+   text-shadow: none;
+   display: inline-block;
+   text-align: start;
+   appearance: auto;
+   cursor: text;
+   margin: 0em;
+   padding: 1px 2px;
+   border-width: 2px;
+   border-style: inset;
+   border-color: -internal-light-dark(rgb(118, 118, 118), rgb(133, 133, 133));
+   border-top-color: -internal-light-dark(rgb(118, 118, 118), rgb(133, 133, 133));
+   border-right-color: -internal-light-dark(rgb(118, 118, 118), rgb(133, 133, 133));
+   border-bottom-color: -internal-light-dark(rgb(118, 118, 118), rgb(133, 133, 133));
+   border-left-color: -internal-light-dark(rgb(118, 118, 118), rgb(133, 133, 133));
+   border-image: initial;
+}
+.login{
+    position: fixed;
+    top: 2%;
+    right: 1%;
+    font-family:Arial, Helvetica, sans-serif;
+    border: 0ch;
+    color: white;
+    border-radius: 5px;
+    background-color: #1B66C9;
+    width: 120.02px;
+    height: 36px;
+    cursor: pointer;
+
+
+
+}
+.img2{
+     cursor: pointer;
+     position: fixed;
+     top: 343px;
+     left: 930px;
+     
+
+
+
+}
+.img3{
+   cursor: pointer;
+   position: absolute;
+   top: 20px;
+   right: 152px;
+}
+.bot{
+    position: absolute;
+    left: 40%;
+    top: 50%;
+   
+}
+.sorte{
+
+   background-color: #f8f9fa;
+   border: 1px solid #f8f9fa;
+   border-radius: 4px;
+   color: #3c4043;
+   font-family: arial,sans-serif;
+   font-size: 14px;
+   margin: 11px 4px;
+   padding: 0 16px;
+   line-height: 27px;
+   height: 36px;
+   min-width: 54px;
+   text-align: center;
+   cursor: pointer;
+   user-select: none;
+
+
+}
+.img4{
+   position: absolute;
+   top: 43%;
+   left: 450px;
+   fill: #9aa0a6;
+   height:20px;
+   line-height:20px;
+   width:20px;
+   
+
+
+}
+
+.pesquisa{
+   
+   background-color: #f8f9fa;
+   border: 1px solid #f8f9fa;
+   border-radius: 4px;
+   color: #3c4043;
+   font-family: arial,sans-serif;
+   font-size: 14px;
+   margin: 11px 4px;
+   padding: 0 16px;
+   line-height: 27px;
+   height: 36px;
+   min-width: 54px;
+   text-align: center;
+   cursor: pointer;
+   user-select: none;
+
+
+
+}
+.voz{
+   position: absolute;
+   top: 335px;
+   left: 67%;
+   height: 24px;
+   width: 24px;
+   cursor: pointer;
+   vertical-align: middle;
+
+
+
+}
